@@ -18,7 +18,8 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git 
+git https://github.com/Eduguttuganesh/Netflix-Clone-Ganesh-E
+
 ```
 
 2. Open the project in your preferred code editor.
