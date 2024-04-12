@@ -4,7 +4,6 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-![image](C:\Users\ganes\OneDrive\Desktop\Netflix clone\Netflix-Clone\1.jpg)
 
 - Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
 - Interactive components: The page includes interactive elements such as buttons, dropdown menus, and hover effects.
