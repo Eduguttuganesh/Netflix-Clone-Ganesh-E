@@ -1,4 +1,21 @@
+#**Screenshots of the Project**
+
+#Home page
+![Screenshot (7)](https://github.com/Eduguttuganesh/Netflix-Clone-Ganesh-E/assets/138758104/ef65722c-3a5d-44d4-ab7e-1b9c25bce6d4)
+
+#Signup page
+![Screenshot (8)](https://github.com/Eduguttuganesh/Netflix-Clone-Ganesh-E/assets/138758104/ed4e68e7-f42c-49a0-9e37-98e3f4a91fca)
+
+![Screenshot (9)](https://github.com/Eduguttuganesh/Netflix-Clone-Ganesh-E/assets/138758104/7c11fb69-30e6-4dbd-82a9-cb75f1e10f12)
+
+![Screenshot (10)](https://github.com/Eduguttuganesh/Netflix-Clone-Ganesh-E/assets/138758104/fd0665d2-3a31-45f3-a7ab-c3ca853b98fc)
+
+![Screenshot (11)](https://github.com/Eduguttuganesh/Netflix-Clone-Ganesh-E/assets/138758104/43dd88aa-9871-47a3-b63a-3c98845f0630)
+
+![Screenshot (12)](https://github.com/Eduguttuganesh/Netflix-Clone-Ganesh-E/assets/138758104/ce8aad92-565a-465d-bd61-1e1a2cedea8f)
+
 # Netflix_Home_Page_Using_HTML_And_CSS
+
 
 This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
 
